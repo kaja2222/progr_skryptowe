@@ -1,6 +1,6 @@
 ﻿
 $ip  = Read-Host "podaj ip"
-$api = "q6zbAtFRZEMz5KEEP0LiVuA7C5Kuwkt3"
+$api = "your api"
 
 
 
